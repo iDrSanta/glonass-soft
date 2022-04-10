@@ -1,6 +1,6 @@
 'use strict';
-import { CreateCalculateTable } from './CreateCalculateTable.js';
-import { Table } from './Table.js';
+import { CreateCalculateTable } from './scripts/CreateCalculateTable.js';
+import { Table } from './scripts/Table.js';
 
 let dataTable = {
   table1: {
